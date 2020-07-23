@@ -121,3 +121,4 @@ percentage.addEventListener('click', (event) => {
   calculate(currentNumber /= 100)
   updateScreen(currentNumber)
 })
+
